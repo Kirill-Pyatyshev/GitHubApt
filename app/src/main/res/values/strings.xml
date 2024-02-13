@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHubApi</string>
+    <string name="user_search">username</string>
+    <string name="check_box_org">Организация</string>
+    <string name="button_search">Поиск</string>
+    <string name="title_activity_repositories">RepositoriesActivity</string>
+    <string name="user_page2">Username: </string>
+</resources>

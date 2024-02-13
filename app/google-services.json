@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "340254175211",
+    "firebase_url": "https://githubapi-23e42-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "githubapi-23e42",
+    "storage_bucket": "githubapi-23e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340254175211:android:7405224e87b755fd0a33ae",
+        "android_client_info": {
+          "package_name": "com.localtechnologies.githubapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi29-TqgH2y0IJlZeMZmfBnFtjYYgr9fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
